@@ -22,4 +22,4 @@ varexplore(lending, "Bad")
 ```
 
 #### Data Dictionary
-Lending data stores in path: varexplore/data/LCDataDictionary.xlsx
+"Lending.rda" data dictionary stores in path: varexplore/data/LCDataDictionary.xlsx

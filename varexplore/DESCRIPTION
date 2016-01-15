@@ -8,7 +8,7 @@ Authors@R: person("Chun-Yang", "Wei", email = "cywei23@gmail.com",
 Description: Variable Exploratory Analysis, Target Binary Variable Summary
     Statistics, Varibale Binning, and WOE Transformation SQL. All output to Shiny
     Dashboard
-Depends: R (>= 3.2.2), caret, ClustOfVar, data.table, googleVis, plyr, reshape, ROCR, scales, shiny, shinydashboard, sqldf
+Depends: R (>= 3.2.3), caret, ClustOfVar, data.table, googleVis, plyr, reshape, ROCR, scales, shiny, shinydashboard, sqldf
 License: MIT
 LazyData: true
 Imports:

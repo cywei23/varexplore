@@ -1,5 +1,5 @@
-#varexplore
-#### Variable Exploratory Analysis & Shiny Dashboard Output
+#varexplore 
+*italics* - Variable Exploratory Analysis & Shiny Dashboard Output
 =============
 
 ## Installation:

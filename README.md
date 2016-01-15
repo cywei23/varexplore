@@ -1,14 +1,14 @@
 #varexplore 
-### *- Variable Exploratory Analysis & Shiny Dashboard Output* 
+#### *- Variable Exploratory Analysis & Shiny Dashboard Output* 
 =============
 
-## Installation:
+#### Installation:
 ```
 install.packages("devtools")
 library(devtools)
 install_github("cywei23/varexplore/varexplore")
 ```
-## Example:
+#### Example:
 ```eval_rst
 #Package loading and apply function
 library(varexplore)  # Load package and its data
@@ -21,5 +21,5 @@ lending <- subset(lending, select = -c(id)) # Remove ID
 varexplore(lending, "Bad")
 ```
 
-### Data Dictionary
+#### Data Dictionary
 Lending data stores in path: varexplore/data/LCDataDictionary.xlsx

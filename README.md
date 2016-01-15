@@ -1,13 +1,16 @@
-# varexplore
-#### Variable Exploratory Analysis in Shiny Dashboard
+varexplore
+#### Variable Exploratory Analysis & Shiny Dashboard Output
+=============
 
 ## Installation:
+-------------
 install.packages("devtools")
 library(devtools)
 install_github("cywei23/varexplore")
 
 ## Example:
-'''{r}
+-------------
+'''eval_rst
 #Package loading and apply function
 library(varexplore)  # Load package and its data
 data(lending)  # Load sample data

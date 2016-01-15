@@ -1,0 +1,25 @@
+Package: varexplore
+Type: Package
+Title: Variable Exploratory Analysis
+Version: 0.1.0
+Date: 2015-12-10
+Authors@R: person("Chun-Yang", "Wei", email = "cywei23@gmail.com",
+  role = c("aut", "cre"))
+Description: Variable Exploratory Analysis, Target Binary Variable Summary
+    Statistics, Varibale Binning, and WOE Transformation SQL. All output to Shiny
+    Dashboard
+License: MIT
+LazyData: true
+Imports:
+    caret (>= 6.0-57),
+    ClustOfVar (>= 0.8),
+    data.table (>= 1.9.6),
+    googleVis (>= 0.5.10),
+    plyr (>= 1.8.3),
+    reshape (>= 0.8.5),
+    ROCR (>= 1.0-7),
+    scales (>= 0.3.0),
+    shiny (>= 0.12.2),
+    shinydashboard (>= 0.5.1),
+    sqldf (>= 0.4-10)
+RoxygenNote: 5.0.1

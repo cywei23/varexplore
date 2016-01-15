@@ -20,3 +20,6 @@ lending <- subset(lending, select = -c(id)) # Remove ID
 # Package application
 varexplore(lending, "Bad")
 ```
+
+### Data Dictionary
+Store in varexplore/data/LCDataDictionary.xlsx

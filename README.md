@@ -2,13 +2,13 @@
 #### *- Variable Exploratory Analysis & Shiny Dashboard Output* 
 =============
 
-#### Installation:
+#### Install
 ```
 install.packages("devtools")
 library(devtools)
 install_github("cywei23/varexplore/varexplore")
 ```
-#### Example:
+#### Example
 ```eval_rst
 #Package loading and apply function
 library(varexplore)  # Load package and its data

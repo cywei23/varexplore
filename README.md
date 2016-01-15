@@ -6,7 +6,7 @@
 ```
 install.packages("devtools")
 library(devtools)
-install_github("cywei23/varexplore")
+install_github("cywei23/varexplore/varexplore")
 ```
 ## Example:
 ```eval_rst

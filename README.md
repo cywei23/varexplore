@@ -8,6 +8,11 @@ install.packages("devtools")
 library(devtools)
 install_github("cywei23/varexplore/varexplore")
 ```
+##### If install from local source cod:
+'''
+install.packages(path_to_file, repos = NULL, type="source")
+'''
+
 #### Example
 ```eval_rst
 #Package loading and apply function

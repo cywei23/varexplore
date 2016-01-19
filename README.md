@@ -2,13 +2,13 @@
 #### *- Variable Exploratory Analysis & Shiny Dashboard Output* 
 =============
 
-#### Install
+#### Install from Github
 ```
 install.packages("devtools")
 library(devtools)
 install_github("cywei23/varexplore/varexplore")
 ```
-##### If install from local source cod:
+#### Install from local source code:
 '''
 install.packages(path_to_file, repos = NULL, type="source")
 '''

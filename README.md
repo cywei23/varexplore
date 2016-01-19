@@ -9,9 +9,9 @@ library(devtools)
 install_github("cywei23/varexplore/varexplore")
 ```
 #### Install from local source code:
-'''
+```
 install.packages(path_to_file, repos = NULL, type="source")
-'''
+```
 
 #### Example
 ```eval_rst

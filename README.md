@@ -10,6 +10,16 @@ install_github("cywei23/varexplore/varexplore")
 ```
 #### Install from local source code:
 ```
+#Install dependent packages manually
+install.packages("caret")
+install.packages("ClustOfVar")
+install.packages("data.table")
+install.packages("reshape")
+install.packages("ROCR")
+install.packages("shiny")
+install.packages("shinydashboard")
+
+#Install from local source code
 install.packages(path_to_file, repos = NULL, type="source")
 ```
 

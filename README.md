@@ -1,5 +1,4 @@
-#varexplore
-
+# varexplore
 Variable Exploratory Analysis & Shiny Dashboard Output* 
 
 #### Install from Github

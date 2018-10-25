@@ -1,4 +1,4 @@
-# Variable Exploratory Analysis & Shiny Dashboard Output* 
+# Variable Exploratory Analysis
 
 ### Install from Github
 ```
